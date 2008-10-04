@@ -1,9 +1,13 @@
 This is a collection of BioLib (http://biolib.open-bio.org/) packages.
 
+These packages are for binary and source deployment of bioinformatics software
+across various Linux distributions (both 32- and 64-bits).
+
 Nix is a purely functional package manager. It allows multiple versions of a
 package to be installed side-by-side, ensures that dependency specifications
 are complete, supports atomic upgrades and rollbacks, allows non-root users to
 install software, and has many other features. For more information see
-http://nixos.org/.
+http://nixos.org/. Copies of these packages can be found in the Nix package
+repositories.
 
 Pjotr Prins.
