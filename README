@@ -1,0 +1,9 @@
+This is a collection of BioLib (http://biolib.open-bio.org/) packages.
+
+Nix is a purely functional package manager. It allows multiple versions of a
+package to be installed side-by-side, ensures that dependency specifications
+are complete, supports atomic upgrades and rollbacks, allows non-root users to
+install software, and has many other features. For more information see
+http://nixos.org/.
+
+Pjotr Prins.
