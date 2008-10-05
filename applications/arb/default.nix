@@ -70,7 +70,7 @@ ARB
     description     = "ARB software for sequence database handling and analysis";
     longDescription = ''The ARB software is a graphically oriented package comprising various tools for sequence database handling and data analysis. A central database of processed (aligned) sequences and any type of additional data linked to the respective sequence entries is structured according to phylogeny or other user defined criteria. Note that this package includes its own older versions of clustal etc.''; 
     license     = "non-free";
-    pkgMaintainer = "http://BioLib.open-bio.org/";
+    pkgMaintainer = "BioNix at http://BioLib.open-bio.org/";
     homepage    = http://www.arb-home.de/;
     priority    = "10";   # because it includes binaries of clustal etc.
   };

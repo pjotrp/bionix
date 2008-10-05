@@ -19,5 +19,6 @@ stdenv.mkDerivation rec {
     homepage = http://www.ncbi.nlm.nih.gov/IEB/ToolBox/; 
     license = "GPL";
     priority = "5";   # zlib.so gives a conflict with zlib
+    pkgMaintainer = "BioNix at http://BioLib.open-bio.org/";
   };
 }

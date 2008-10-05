@@ -32,6 +32,8 @@ let
       meta = {
         description = "Bioconductor package for ${pname}";
         homepage = http://www.bioconductor.org/;
+        pkgMaintainer = "BioNix at http://BioLib.open-bio.org/";
+
       };
     };
 
