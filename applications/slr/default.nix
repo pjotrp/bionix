@@ -25,6 +25,7 @@ SLR is a program to detect sites in coding DNA that are unusually conserved and/
 '';
     license     = "GPL3";
     homepage    = http://www.ebi.ac.uk/goldman/SLR/;
-    pkgMaintainer = "BioNix at http://BioLib.open-bio.org/";
+    pkgMaintainer = http://biolib.open-bio.org/;
+
   };
 }

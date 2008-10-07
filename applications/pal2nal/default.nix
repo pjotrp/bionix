@@ -26,7 +26,6 @@ If the input is a pair of sequences, PAL2NAL automatically calculates KS and KA 
 '';
     license        = "non-commercial";
     homepage       = http://coot.embl.de/pal2nal/;
-    pkgMaintainer = "BioNix at http://BioLib.open-bio.org/";
-
+    pkgMaintainer  = http://biolib.open-bio.org;
   };
 }
