@@ -26,6 +26,6 @@ stdenv.mkDerivation {
     sequence data from the web.''; 
     license     = "GPL2";
     homepage    = http://emboss.sourceforge.net/;
-    pkgMaintainer = "BioNix at http://BioLib.open-bio.org/";
+    pkgMaintainer = http://biolib.open-bio.org/;
   };
 }
